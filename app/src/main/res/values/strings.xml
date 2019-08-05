@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title_hint">Deal Title</string>
+    <string name="hint_price">Price</string>
+    <string name="description_hint">Description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="web_client_id" translatable="false">
+        437041125131-n4765i5l6ui33icr24q8jtt805nd3soh.apps.googleusercontent.com
+    </string>
+
+</resources>
